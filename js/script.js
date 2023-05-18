@@ -13,7 +13,7 @@ document.addEventListener('keyup', enter)
 
 //RESOLUÇÃO:
 
-//PEGA OS ELEMENTOS
+//PEGANDO OS ELEMENTOS
 const input = document.querySelector('input')
 const lista = document.querySelector('ul')
 
